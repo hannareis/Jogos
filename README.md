@@ -1,2 +1,2 @@
 # Jogos
-<a src="" >MegaSorte</a>
+<a src="Mega-Sorte.exe" >MegaSorte</a>
