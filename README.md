@@ -1,2 +1,4 @@
 # Jogos
-<a src="Mega-Sorte.exe" >MegaSorte</a>
+<i>Desenvolvidos em C#:</i>
+<br>
+<a src="Mega-Sorte.exe" >+ MegaSorte</a>
